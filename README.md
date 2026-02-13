@@ -5,7 +5,7 @@ Released models for this project are available in the Hugging Face collection:
 https://huggingface.co/collections/paraskeva/lm-efficiency-analysis
 
 Project website:
-https://andreasparaskeva.github.io/lm-efficient-analysis/
+https://ada-research.github.io/lm-efficiency-analysis/
 
 ## What’s in this repo
 - Data preparation for multiple datasets.
