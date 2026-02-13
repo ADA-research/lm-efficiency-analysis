@@ -9,7 +9,7 @@ title: Efficiency in Language Model Pre-training
   <p class="meta">Andreas Paraskeva · Max Johannes van Duijn · Maarten de Rijke · Suzan Verberne · Jan N. van Rijn</p>
   <div class="quick-links">
     <a href="./Data_efficiency_in_language_model_pre_training___DMRLR.pdf">Paper (PDF)</a>
-    <a href="https://github.com/andreasparaskeva/lm-efficient-analysis">Code</a>
+    <a href="https://github.com/ADA-research/lm-efficiency-analysis">Code</a>
     <a href="https://huggingface.co/collections/paraskeva/lm-efficiency-analysis">Model Collection</a>
   </div>
 </section>
