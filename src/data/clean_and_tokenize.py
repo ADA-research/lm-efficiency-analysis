@@ -1,3 +1,4 @@
+# Cleaning and tokenization based on code from: https://github.com/timinar/BabyLlama
 from pathlib import Path
 from tokenizers import (Tokenizer, decoders, models, pre_tokenizers,
                         processors, trainers)
